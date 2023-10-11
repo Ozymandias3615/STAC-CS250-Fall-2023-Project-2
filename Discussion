@@ -1,0 +1,1 @@
+The main difference between my code and ChatGPT's code is the fact that ChatGPT coded everything in one file and I separated the header and individual .cpp files. Admittedly I used ChatGPT for help with the for loop that limits the number of courses the student took to 10.

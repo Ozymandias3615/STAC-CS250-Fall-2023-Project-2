@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1696986336 source:c:\users\nanab\desktop\c++ programs\homework 2\src\person.cpp
+	<iostream>
+	"Person.h"
+
+1696986336 c:\users\nanab\desktop\c++ programs\homework 2\include\person.h
+	<string>
+
+1696985292 source:c:\users\nanab\desktop\c++ programs\homework 2\src\professor.cpp
+	<iostream>
+	"Professor.h"
+
+1696985284 c:\users\nanab\desktop\c++ programs\homework 2\include\professor.h
+	"Person.h"
+
+1696986532 source:c:\users\nanab\desktop\c++ programs\homework 2\src\student.cpp
+	<iostream>
+	"Student.h"
+
+1696988045 c:\users\nanab\desktop\c++ programs\homework 2\include\student.h
+	"Person.h"
+
+1696986918 source:c:\users\nanab\desktop\c++ programs\homework 2\main.cpp
+	<iostream>
+	"Person.h"
+	"Student.h"
+	"Professor.h"
+
